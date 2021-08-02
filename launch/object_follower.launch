@@ -1,0 +1,4 @@
+<launch>
+  <node pkg="object_follower" type="object_follower_node.py" name="object_follower_node" output="screen">
+  </node>
+</launch>
